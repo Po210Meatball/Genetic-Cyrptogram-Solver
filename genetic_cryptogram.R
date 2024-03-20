@@ -3,8 +3,6 @@ set.seed(7)
 #Nothing was your own except the few cubic centimeters inside your skull
 
 library(qdapDictionaries)
-library(zeallot)
-library(purrr)
 
 ###Variables
 
